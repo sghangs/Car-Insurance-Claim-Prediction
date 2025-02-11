@@ -1,0 +1,16 @@
+README.md
+setup.py
+CarInsuranceClaimPrediction.egg-info/PKG-INFO
+CarInsuranceClaimPrediction.egg-info/SOURCES.txt
+CarInsuranceClaimPrediction.egg-info/dependency_links.txt
+CarInsuranceClaimPrediction.egg-info/requires.txt
+CarInsuranceClaimPrediction.egg-info/top_level.txt
+claimprediction/__init__.py
+claimprediction/cloud/__init__.py
+claimprediction/components/__init__.py
+claimprediction/constant/__init__.py
+claimprediction/entity/__init__.py
+claimprediction/exception/__init__.py
+claimprediction/logging/__init__.py
+claimprediction/pipeline/__init__.py
+claimprediction/utils/__init__.py

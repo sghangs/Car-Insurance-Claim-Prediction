@@ -1,0 +1,14 @@
+Metadata-Version: 2.2
+Name: CarInsuranceClaimPrediction
+Version: 0.0.1
+Author: Sunny Ghangas
+Author-email: sunnyghangas098@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: pymongo
+Requires-Dist: certifi
+Requires-Dist: python-dotenv
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
