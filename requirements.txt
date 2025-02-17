@@ -7,5 +7,7 @@ python-dotenv
 pymongo[srv]
 pyaml
 dill
+imblearn
+mlxtend
 
 #-e .
